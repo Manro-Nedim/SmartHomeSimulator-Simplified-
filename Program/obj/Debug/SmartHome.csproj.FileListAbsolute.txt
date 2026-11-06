@@ -1,0 +1,7 @@
+C:\Users\Роман\Desktop\ЫЫЫ\SmartHouse\Program\bin\Debug\Program.exe.config
+C:\Users\Роман\Desktop\ЫЫЫ\SmartHouse\Program\bin\Debug\Program.exe
+C:\Users\Роман\Desktop\ЫЫЫ\SmartHouse\Program\bin\Debug\Program.pdb
+C:\Users\Роман\Desktop\ЫЫЫ\SmartHouse\Program\obj\Debug\SmartHome.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\ЫЫЫ\SmartHouse\Program\obj\Debug\SmartHome.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\ЫЫЫ\SmartHouse\Program\obj\Debug\Program.exe
+C:\Users\Роман\Desktop\ЫЫЫ\SmartHouse\Program\obj\Debug\Program.pdb
